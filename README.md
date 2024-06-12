@@ -78,13 +78,3 @@ El proyecto "Meta Photo" para la parte backend sigue una estructura organizada y
 
 9. **.env.template**
    - Plantilla para el archivo .env, útil para otros desarrolladores que necesiten saber qué variables de entorno deben configurar.
-
-## Contribución
-
-Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
-
-1. Haz un fork del repositorio
-2. Crea una nueva rama: `git checkout -b nueva-funcionalidad`
-3. Realiza tus cambios y haz commit: `git commit -m "Agrega nueva funcionalidad"`
-4. Haz push a la rama: `git push origin nueva-funcionalidad`
-5. Abre un pull request en GitHub
